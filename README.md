@@ -37,4 +37,10 @@
 ![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 ---
+## 🛠 Projects
+
+- [FO4 Helper](https://github.com/DDH-975/FO4-Helper) : FIFA 전적 조회 앱 (Nexon Open API 연동, Room DB 활용)
+- [WeatherApp](https://github.com/DDH-975/WeatherApp) : 기상청 API 기반 날씨 앱 (Retrofit, 비동기 처리)
+- [FocusPom](https://github.com/DDH-975/FocusPom) : 포모도로 앱 (타이머 & 집중력 관리)
+- [Somnium](https://github.com/DDH-975/Somnium) : 꿈 일기 앱 (DALL·E API 이미지 생성, RecyclerView)
 
