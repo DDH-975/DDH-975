@@ -24,3 +24,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDH-975&layout=compact&theme=tokyonight)
 
+---
+
+## 📚 Currently Studying
+
+### 🔥 Now
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-4B0082?style=for-the-badge&logo=dependabot&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-FF4081?style=for-the-badge&logo=android&logoColor=white)
+![CleanCode](https://img.shields.io/badge/Clean%20Code-3E8EDE?style=for-the-badge&logo=readthedocs&logoColor=white)
+
+### 🎯 Next
+![JetpackCompose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+---
+
