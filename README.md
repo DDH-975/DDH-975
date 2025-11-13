@@ -44,3 +44,5 @@
 - [FocusPom](https://github.com/DDH-975/FocusPom) : 포모도로 앱 
 - [Somnium](https://github.com/DDH-975/Somnium) : 꿈 일기 앱 
 
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer)
