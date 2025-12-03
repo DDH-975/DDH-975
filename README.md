@@ -42,7 +42,11 @@
 - [FO4 Helper](https://github.com/DDH-975/FO4-Helper) : FIFA 전적 조회 앱 
 - [WeatherApp](https://github.com/DDH-975/WeatherApp) : 기상청 API 기반 날씨 앱 
 - [FocusPom](https://github.com/DDH-975/FocusPom) : 포모도로 앱 
-- [Somnium](https://github.com/DDH-975/Somnium) : 꿈 일기 앱 
+- [Somnium](https://github.com/DDH-975/Somnium) : 꿈 일기 앱
+
+---
+## 📌 Portfolio & Links
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer)
