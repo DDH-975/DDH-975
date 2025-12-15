@@ -45,9 +45,6 @@
 - [Somnium](https://github.com/DDH-975/Somnium) : 꿈 일기 앱
 
 ---
-## 📌 Portfolio & Links
-![Notion Portfolio](https://nervous-schooner-f90.notion.site/201efac907818074acdefd38180d798f) <br>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer)
 
