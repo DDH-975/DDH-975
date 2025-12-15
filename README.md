@@ -53,7 +53,3 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer)<br>
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DDH-975&label=Visitors&color=0e75b6&style=flat" alt="visitors" />
-</p>
