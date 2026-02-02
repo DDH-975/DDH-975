@@ -40,7 +40,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDH-975&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DDH-975&layout=compact&theme=tokyonight)
+![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DDH-975&layout=compact&theme=radical&custom_title=Most%20Used%20Languages)
 
 ---
 
