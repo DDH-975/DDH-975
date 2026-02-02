@@ -61,6 +61,7 @@
 - [WeatherApp](https://github.com/DDH-975/WeatherApp) : 기상청 API 기반 날씨 앱 
 - [FocusPom](https://github.com/DDH-975/FocusPom) : 포모도로 앱 
 - [Somnium](https://github.com/DDH-975/Somnium) : 꿈 일기 앱
+- [Pet-Medi](https://github.com/DDH-975/Pet-Medi) : 동물병원(약국) 지도 앱
 
 ---
 
