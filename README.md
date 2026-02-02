@@ -38,8 +38,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDH-975&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DDH-975&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DDH-975&layout=compact&theme=radical&custom_title=Most%20Used%20Languages)
 
