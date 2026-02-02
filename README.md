@@ -4,16 +4,31 @@
 ## 🧱 Tech Stack
 
 ### 💻 Languages & Tools
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![retrofit](https://img.shields.io/badge/Retrofit-2E8B57?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-6D4C41?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Glide](https://img.shields.io/badge/Glide-FFCA28?style=for-the-badge&logo=glide&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 📑 Markup & Data Format
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### 🏛️ Architecture & Design Pattern
+![MVVM](https://img.shields.io/badge/MVVM%20Architecture-4CAF50?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Repository%20Pattern-795548?style=for-the-badge)
+
+### 📱 Framework & Library(Android)
+![Retrofit2](https://img.shields.io/badge/Retrofit2-48B983?style=for-the-badge)
+![Room DB](https://img.shields.io/badge/Room%20DB-6D4C41?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Glide](https://img.shields.io/badge/Glide-FFCA28?style=for-the-badge)
+
+### 🛠️ Tools & Dev Ops
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 
 ---
