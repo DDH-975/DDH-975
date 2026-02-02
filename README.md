@@ -21,6 +21,9 @@
 ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Glide](https://img.shields.io/badge/Glide-FFCA28?style=for-the-badge)
 
+### 📡 APIs & External Services
+
+
 ### 🛠️ Tools & Dev Ops
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
