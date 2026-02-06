@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
 
-## 👋 Hi, I'm Jeang jun ho
+# 👋 Hi, I'm Jeang jun ho
 
 **안녕하세요 작은 화면 속 큰 변화를 꿈꾸는 안드로이드 개발자 정준호입니다.** <br>
 사용자의 삶에 자연스럽게 스며들어 일상의 질을 높이는 앱을 만드는 것이 제 목표입니다.
