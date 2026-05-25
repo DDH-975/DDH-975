@@ -53,7 +53,6 @@
 ## 📚 Currently Studying
 
 ### 🔥 Now
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-4B0082?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-3E8EDE?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Hilt](https://img.shields.io/badge/Hilt-FFCA28?style=for-the-badge&logo=readthedocs&logoColor=white)
 
